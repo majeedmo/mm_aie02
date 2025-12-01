@@ -1,2 +1,2 @@
 # mm_aie02
-ai maker space - on ramp
+AI maker space - on ramp
