@@ -1,197 +1,86 @@
-<p align = "center" draggable=”false” ><img src="https://github.com/AI-Maker-Space/LLM-Dev-101/assets/37101144/d1343317-fa2f-41e1-8af1-1dbb18399719" 
-     width="200px"
-     height="auto"/>
-</p>
+#  The AI Engineer Onramp, Cohort 2 Home Page
 
+👋 Welcome to [The AI Engineer Onramp: From Vibe Coding to AI-Assisted Development](https://maven.com/aimakerspace/ai-eng-onramp)
 
-## <h1 align="center" id="heading"> 👋 Welcome to the AI Engineer Challenge</h1>
+This course is designed to help you get set up like a professional AI Engineer so that *you're ready to build production LLM applications in 2026*.
 
-## 🤖 Your First Vibe Coding LLM Application
+## 🗓️ Class Dates
 
-> If you are a novice, and need a bit more help to get your dev environment off the ground, check out this [Setup Guide](docs/GIT_SETUP.md). This guide will walk you through the 'git' setup you need to get started.
+If you'd like, you can **[access the Zoom classroom directly now](https://us02web.zoom.us/j/85953611606).** 
 
-> For additional context on LLM development environments and API key setup, you can also check out our [Interactive Dev Environment for LLM Development](https://github.com/AI-Maker-Space/Interactive-Dev-Environment-for-AI-Engineers).
+Class is held from 12:00 to 1:30 PM on Mondays, and will open promptly at 12:00:00 PM ET. **You should have received hard calendar invites for each class period**, according to the following schedule 👇
 
-In this repository, we'll walk you through the steps to create a LLM (Large Language Model) powered application with a vibe-coded frontend!
+- **Monday, December 1:** 🎧 From Vibes to AI-Assisted Development
+- **Monday, December 8:** 🖼️ LLM APIs & Frontend UI Development
+- **Monday, December 15:** ⚡ Backend Web App Development & Deployment of LLM Applications
+- **Monday, December 22:** ↔️ Building End-to-End LLM Applications
 
-Are you ready? Let's get started!
+# 🛣️ Getting Started
 
-<details>
-  <summary>🖥️ Accessing "gpt-4.1-mini" (ChatGPT) like a developer</summary>
+1. 📅 **Calendar**: Add the Cohort Calendar to yours [here](https://bit.ly/aieo2-cal).
+2. 🌏 **Discord**: Join the AIM Discord [here](https://discord.gg/uWDzDtz8). *Send your Discord username to **`courseops@aimakerspace.io` with the subject line "AIEO2 Discord Access" ***. Then ensure you have access to AIEO2-specific, private Discord Channels described below (described below!).
+3. ⚠️ **Prerequisites**: Read through each of the README.md files in this Repo!
 
-1. Head to [this notebook](https://colab.research.google.com/drive/1sT7rzY_Lb1_wS0ELI1JJfff0NUEcSD72?usp=sharing) and follow along with the instructions!
+# 🧑‍🎓 Course Materials
 
-2. Complete the notebook and try out your own system/assistant messages!
+`00_Quicklinks` is your one-stop shop for all course materials, and our [syllabus and detailed schedule](https://bit.ly/aieo2-curr) will guide us through the course.
 
-That's it! Head to the next step and start building your application!
+In addition to the optional README overviews of topics in the main repository, for each session you can find everything you need directly in the GitHub README.md _for that session_. This includes:
 
-</details>
+- 📛 Required Tooling & Account Setup
+- 🧑‍💻 Recommended Pre-Work!
+- ⏺️ Recordings
+- 🖼️ Slide Decks
+- ⌨️ Assignment Code
+- 📜 Assignment Submission Forms
 
+## 🧰 Tooling
 
-<details>
-  <summary>🏗️ Forking & Cloning This Repository</summary>
+**The stack** we'll use is made up of best-practice tools:
 
-Before you begin, make sure you have:
+- 🐙 Version Control: [GitHub](https://github.com/)
+- 🐚 CLI: Shell for Unix-like OS ([WSL](https://ubuntu.com/desktop/wsl))
+- 📦 Package & Env Management: [uv](https://docs.astral.sh/uv/)
+- 📓 Python Notebooks: [Jupyter](https://jupyter.org/) / [Colab](https://colab.google/)
+- 🖱️ Code Editor: [Cursor](https://www.cursor.com/)
+- 🤖 CLI Coding Agent: [Cursor CLI](https://cursor.com/docs/cli/overview)
+- 🧠 LLM: [OpenAI GPT models](https://platform.openai.com/docs/models)
+- 🎨 User Interface: Vibe-coded with [v0](https://v0.app/)
+- ⚡ Web App Framework: [FastAPI](https://fastapi.tiangolo.com/)
+- ☁️ Deployment: [Vercel](https://vercel.com/) & [Render](https://render.com/docs)
 
-1. 👤 A GitHub account (you'll need to replace `YOUR_GITHUB_USERNAME` with your actual username)
-2. 🔧 Git installed on your local machine
-3. 💻 A code editor (like Cursor, VS Code, etc.)
-4. ⌨️ Terminal access (Mac/Linux) or Command Prompt/PowerShell (Windows)
-5. 🔑 A GitHub Personal Access Token (for authentication)
+# 🌐 Discord
 
-Got everything in place? Let's move on!
+When it comes to Discord, there is a lot to explore. However, if you're trying to get down to brass tax for the course, focus on these aspects:
 
-1. Fork [this](https://github.com/AI-Maker-Space/The-AI-Engineer-Challenge) repo!
+- [Introductions](https://discord.com/channels/1135695983720792216/1169489404511920139) (public - drop yours!)
+- [build-ship-share-🏗-🚢-🚀](https://discord.com/channels/1135695983720792216/1135700320517890131) (for when you've built and shipped and are ready to share)
 
-     ![image](https://i.imgur.com/bhjySNh.png)
+**#️⃣ AIEO2 Channels**
+- [aieo2-announcements](https://discord.com/channels/1135695983720792216/1443985783697571920) (for instructor and peer support announcements)
+- [aieo2-general](https://discord.com/channels/1135695983720792216/1443985850592657570) (treat as cohort misc!)
+- [aieo2-questions](https://discord.com/channels/1135695983720792216/1443985934096797796) (use this channel to get your **questions** answered!)
+- [aieo2-lounge](https://discord.com/channels/1135695983720792216/1443986008554078396) (You can hang out with instructors, peer supporters, and other students!)
+- [aieo2-office-hours](https://discord.com/channels/1135695983720792216/1443986090867425421) (Join for office hours schedule is on the Cohort calendar)
 
-1. Clone your newly created repo.
+# 🧑‍🤝‍🧑 Peer Supporters
 
-     ``` bash
-     # First, navigate to where you want the project folder to be created
-     cd PATH_TO_DESIRED_PARENT_DIRECTORY
+Your peer supporters will be your [guides](https://curiouslionlearning.com/why-group-learning/#Two_Types_of_Groups_Journey_and_Destination) throughout the cohort! Learn more about each peer supporter below!
 
-     # Then clone (this will create a new folder called The-AI-Engineer-Challenge)
-     git clone git@github.com:<YOUR GITHUB USERNAME>/The-AI-Engineer-Challenge.git
-     ```
+- [Laura Funderburk](https://www.notion.so/Laura-Funderburk-1d1cd547af3d80c98f77f27929312add?pvs=21), Agentic Alliance, available 2:30 PM ET on Thursdays
+- [Mani Sarkar](https://www.notion.so/Mani-Sarkar-2a0cd547af3d80179c39f0beddb94005), The Sandbox, available at 6 PM ET on Thursdays
+- [Mike Dean](https://www.notion.so/Mike-Dean-17bcd547af3d807a8526fc8a24363b7a?pvs=21), GitMasters, available at 12 PM ET on Tuesdays
+- [Don Branson](https://www.notion.so/Don-Branson-1c8cd547af3d80e9a221d62d2ddc4036?pvs=21), Distilled Reasoning, available {TBD}
+- [Todd Deshane](https://www.notion.so/Todd-Deshane-c18ecdb96e2c4afaafaa7aad522fa1a3?pvs=21), TBD, available at 9 PM ET on Sundays
+  
+🎉 You'll also notice office hours from instructors, peer supporters, and more!
 
-     > Note: This command uses SSH. If you haven't set up SSH with GitHub, the command will fail. In that case, use HTTPS by replacing `git@github.com:` with `https://github.com/` - you'll then be prompted for your GitHub username and personal access token.
+# 🙏 On GitHub Contributions
 
-2. Verify your git setup:
+This GitHub repository is your gateway to going beyond vibe coding and developing your own unique art of AI-assisted development.
 
-     ```bash
-     # Check that your remote is set up correctly
-     git remote -v
+We believe in the power of collaboration. Contributions, ideas, and feedback are highly encouraged! Let's build the ultimate resource for getting on the path to AI Engineering together.
 
-     # Check the status of your repository
-     git status
+Please open up a PR or reach out with any questions or suggestions.
 
-     # See which branch you're on
-     git branch
-     ```
-
-     <!-- > Need more help with git? Check out our [Detailed Git Setup Guide](docs/GIT_SETUP.md) for a comprehensive walkthrough of git configuration and best practices. -->
-
-3. Open the freshly cloned repository inside Cursor!
-
-     ```bash
-     cd The-AI-Engineering-Challenge
-     cursor .
-     ```
-
-4. Check out the existing backend code found in `/api/index.py`
-
-</details>
-
-<details>
-  <summary>⚙️ Backend Setup with uv</summary>
-
-1. Install the [`uv`](https://github.com/astral-sh/uv) package manager (`pip install uv`). `uv` will download and manage Python 3.12 for you the first time you run a project command.
-2. From the project root, install dependencies with `uv sync`. This creates `.venv/` (and fetches Python 3.12 automatically if needed).
-3. Set your OpenAI API key in the shell before running the server, for example `export OPENAI_API_KEY=sk-...`.
-4. Start the backend directly from the project root with `uv run uvicorn api.index:app --reload`. The server will run on `http://localhost:8000` with auto-reload enabled for development.
-5. Additional backend details live in `api/README.md`.
-
-</details>
-
-<details>
-  <summary>🔥Setting Up for Vibe Coding Success </summary>
-
-While it is a bit counter-intuitive to set things up before jumping into vibe-coding - it's important to remember that there exists a gradient betweeen AI-Assisted Development and Vibe-Coding. We're only reaching *slightly* into AI-Assisted Development for this challenge, but it's worth it!
-
-1. Check out the rules in `.cursor/rules/` and add theme-ing information like colour schemes in `frontend-rule.mdc`! You can be as expressive as you'd like in these rules!
-2. We're going to index some docs to make our application more likely to succeed. To do this - we're going to start with `CTRL+SHIFT+P` (or `CMD+SHIFT+P` on Mac) and we're going to type "custom doc" into the search bar. 
-
-     ![image](https://i.imgur.com/ILx3hZu.png)
-3. We're then going to copy and paste `https://nextjs.org/docs` into the prompt.
-
-     ![image](https://i.imgur.com/psBjpQd.png)
-
-4. We're then going to use the default configs to add these docs to our available and indexed documents.
-
-     ![image](https://i.imgur.com/LULLeaF.png)
-
-5. After that - you will do the same with Vercel's documentation. After which you should see:
-
-     ![image](https://i.imgur.com/hjyXhhC.png) 
-
-</details>
-
-<details>
-  <summary>😎 Vibe Coding a Front End for the FastAPI Backend</summary>
-
-1. Use `Command-L` or `CTRL-L` to open the Cursor chat console. 
-
-2. Set the chat settings to the following:
-
-     ![image](https://i.imgur.com/LSgRSgF.png)
-
-3. Ask Cursor to create a frontend for your application. Iterate as much as you like!
-
-4. Run the frontend using the instructions Cursor provided. 
-
-> NOTE: If you run into any errors, copy and paste them back into the Cursor chat window - and ask Cursor to fix them!
-
-> NOTE: You have been provided with a backend in the `/api` folder - please ensure your Front End integrates with it!
-
-</details>
-
-<details>
-  <summary>🚀 Deploying Your First LLM-powered Application with Vercel</summary>
-
-1. Ensure you have signed into [Vercel](https://vercel.com/) with your GitHub account.
-
-2. Ensure you have `npm` (this may have been installed in the previous vibe-coding step!) - if you need help with that, ask Cursor!
-
-3. Run the command:
-
-     ```bash
-     npm install -g vercel
-     ```
-
-4. Run the command:
-
-     ```bash
-     vercel
-     ```
-
-5. Follow the in-terminal instructions. (Below is an example of what you will see!)
-
-     ![image](https://i.imgur.com/D1iKGCq.png)
-
-6. Once the build is completed - head to the provided link and try out your app!
-
-> NOTE: Remember, if you run into any errors - ask Cursor to help you fix them!
-
-</details>
-
-### Vercel Link to Share
-
-You'll want to make sure you share you *domains* hyperlink to ensure people can access your app!
-
-![image](https://i.imgur.com/mpXIgIz.png)
-
-> NOTE: Test this is the public link by trying to open your newly deployed site in an Incognito browser tab!
-
-### 🎉 Congratulations! 
-
-You just deployed your first LLM-powered application! 🚀🚀🚀 Get on linkedin and post your results and experience! Make sure to tag us at @AIMakerspace!
-
-Here's a template to get your post started!
-
-```
-🚀🎉 Exciting News! 🎉🚀
-
-🏗️ Today, I'm thrilled to announce that I've successfully built and shipped my first-ever LLM using the powerful combination of , and the OpenAI API! 🖥️
-
-Check it out 👇
-[LINK TO APP]
-
-A big shoutout to the @AI Makerspace for all making this possible. Couldn't have done it without the incredible community there. 🤗🙏
-
-Looking forward to building with the community! 🙌✨ Here's to many more creations ahead! 🥂🎉
-
-Who else is diving into the world of AI? Let's connect! 🌐💡
-
-#FirstLLMApp 
-```
+Now let's get building 🏗️, shipping 🚢, and sharing 🚀!
