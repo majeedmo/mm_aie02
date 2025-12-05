@@ -11,9 +11,9 @@ If you'd like, you can **[access the Zoom classroom directly now](https://us02we
 Class is held from 12:00 to 1:30 PM on Mondays, and will open promptly at 12:00:00 PM ET. **You should have received hard calendar invites for each class period**, according to the following schedule 👇
 
 - **Monday, December 1:** 🎧 From Vibes to AI-Assisted Development
-- **Monday, December 8:** 🖼️ LLM APIs & Frontend UI Development
-- **Monday, December 15:** ⚡ Backend Web App Development & Deployment of LLM Applications
-- **Monday, December 22:** ↔️ Building End-to-End LLM Applications
+- **Monday, December 8:** ⚡ LLM APIs & Backend Web App Development & Deployment
+- **Monday, December 15:** 🖼️ Connecting Frontend UIs to Backend Deployments
+- **Monday, December 22:** ↔️ Building Complex End-to-End LLM Applications
 
 # 🛣️ Getting Started
 
