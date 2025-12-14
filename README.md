@@ -39,6 +39,8 @@ To check the setup each time:
 
 This checks your shell, OS tools, Git, Python, IDEs, and API keys. Follow the output instructions to fix any ❌ red X marks, then re-run to verify.
 
+See [README.md](./scripts/README.md) docs
+
 # 🧑‍🎓 Course Materials
 
 `00_Quicklinks` is your one-stop shop for all course materials, and our [syllabus and detailed schedule](https://bit.ly/aieo2-curr) will guide us through the course.

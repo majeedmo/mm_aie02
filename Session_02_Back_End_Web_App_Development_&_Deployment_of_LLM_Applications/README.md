@@ -5,9 +5,9 @@
 
 ## <h1 align="center" id="heading">Session 2: ⚡ LLM APIs & Backend Web App Development & Deployment</h1>
 
-| 🤓 Pre-class | ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo         | 📝 Homework      | 📁 Feedback       |
-|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
-| Coming soon! | Coming soon! | Coming soon! | You are here! | Coming soon! | Coming soon! |
+| ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo         | 📄 Homework       | 📁 Feedback       | 
+|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
+| [Recording!](https://us02web.zoom.us/rec/share/IXFR3_h72eZ1TbXWWVRiaE4xTSQIPBnpIRZUR-M5450uR8CIo-5kza1ixH9BanrA.KKu-OIqI1YHr3cfZ ) (=7Ld3A2L) | [Slides](https://www.canva.com/design/DAG492HUYsU/d98h86nIBAbpLsJ2TBFriQ/edit?utm_content=DAG492HUYsU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | You are here! | [HW Submission](https://forms.gle/kHkKuf1sEVHR5pU96) | [12/8 Feedback](https://forms.gle/LwGaXQriviy9tVwa6) |
 
 ---
 
