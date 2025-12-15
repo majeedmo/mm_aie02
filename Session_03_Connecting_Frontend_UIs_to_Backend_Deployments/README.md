@@ -3,7 +3,7 @@
      height="auto"/>
 </p>
 
-## <h1 align="center" id="heading">Session 4: End-to-End LLM Application Development with Coding Agents</h1>
+## <h1 align="center" id="heading">Session 3: Connecting Frontend UIS To Backend Deployments</h1>
 
 | 🤓 Pre-work | ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo         | 📝 Homework      | 📁 Feedback       |
 |:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
